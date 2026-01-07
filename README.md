@@ -29,12 +29,13 @@
 
 ### 🐙 Git GUI (Experimental)
 A visual interface for your local repositories.
-* **Prerequisite:** You must have **Git** installed on your system.
-* **Status:** Supports basic status monitoring and navigation.
+* **Prerequisite:** You must have **Git** installed on your system, and SSH setup, the app can help you with that step (See GitGUI → Settings)
+* **Status:** Supports basic git operations branches/commits/pull/push/fetch/tags/stashes.
 
 ### ⚙️ Developer Utilities
 * **UUID Generator:** Fast, offline ID generation.
-* **JSON Formatter:** Clean up messy data locally.
+* **BASE64 Encode/Decode:** Clean up messy data locally.
+* **JWT Decoder:** Decode JWT tokens for quick inspection.
 * **Data Portability:** Full support for importing/exporting your settings and data to local files.
 
 ---
@@ -58,4 +59,4 @@ Visit the **[Releases](https://github.com/DonkersSolutions/DevToolbox/releases)*
 ## 📜 License
 This software is currently provided as **Freeware**. See the [LICENSE](./LICENSE) file for the full terms of the Pre-Alpha period.
 
-*Copyright (c) 2026 Donkers Solutions*
+*Copyright © 2026 Donkers IT*
